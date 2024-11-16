@@ -22,9 +22,9 @@ repository               : "Amirmasoud-R/Portfolio"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Amirmasoud Razavi"
+  name             : "BSc | Computer Engineering"
   pronouns         : "He/Him"  
-  bio              : "23 Year old Cybersecurity enthusiast and Anti-Censorthip advocate"
+  bio              : "Cybersecurity enthusiast and Anti-Censorthip advocate"
   location         : "Earth"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Amirmasoud-R/"
+  github           : "Amirmasoud-R/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "amirmasoud-razavi-a1b063338/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
