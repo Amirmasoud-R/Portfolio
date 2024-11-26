@@ -21,7 +21,7 @@ I had the opportunity to Work and publish a research paper on solving the networ
 
 Cybersecurity Interests
 ------
-I'm an avid personal privacy and security advocate who is also interested in fileds such as Malware Analysis, Reverse Engineering, Zero Knowledge Architecture Virtualization, Bug Bounty, Post-quantum cryptography (PQC), GFW Evasion.
+I'm an avid personal privacy and security advocate who is also interested in fileds such as Malware Analysis, Reverse Engineering, Zero Knowledge Architecture Virtualization, Bug Bounty, Purple Team, Post-quantum cryptography (PQC), GFW Evasion.
 
 Other Personal Interests
 ------
