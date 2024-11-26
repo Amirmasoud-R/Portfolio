@@ -18,6 +18,9 @@ I had the honor of being Dr. Sasan Harifi's TA at Islamic Azad University Karaj 
 ![5](https://github.com/user-attachments/assets/a678dc49-fbdb-45f2-a35b-a1bf155e594f)
 <small>Class of Operating Systems Lab - 26 May 2023 - Lab Site 2</small>
 
+
+![IMG_20240310_153514](https://github.com/user-attachments/assets/75ea4581-0974-4ea7-95a7-a7dedbbf5a91)
+
 ![6](https://github.com/user-attachments/assets/42b8e62c-f81d-4407-aff7-91915e84cb10)
 <small>Preparing The Computer Labs for the Basic Programming Class - 10 April 2023 - Lab Site 1</small>
 
