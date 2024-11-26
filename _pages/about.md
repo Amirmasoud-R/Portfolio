@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Amirmasoud, I'am Passionate Computer Engineering with a foundation and experience in Cybersecurity. I’m interested in both offensive and defensive security. Solving the complex challenges of security problems in real‑world situations piques my interest.
+My name is Amirmasoud, I'am passionate Computer Engineer with a foundation and experience in Cybersecurity and Computer Networks. I’m interested in both offensive and defensive security. Solving the complex challenges of security problems in real‑world situations piques my interest.
 
 Due to lack of official cybersecurity training institutes and security/privacy university curriculum I had to overcome many challenges and difficulties and delve in the cybersecurity self study path.
 
