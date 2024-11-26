@@ -11,6 +11,10 @@ My name is Amirmasoud, I'am passionate Computer Engineer with a foundation and e
 
 Due to lack of official cybersecurity training institutes and security/privacy university curriculum I had to overcome many challenges and difficulties and delve into the cybersecurity self study path.
 
+![IMG_0310_152901](https://github.com/user-attachments/assets/c3d77c92-f198-47cb-ba8f-af8c4047005a)
+<small>Installing Purpl3 OS on the Islamic Azad University Karaj Brach computer Labs</small>
+
+
 Education
 ------
 B.Sc. student in Computer Engineering from Islamic Azad University with a CGPA of 16.69 on a 20-point scale, 3.54 on a 4-point scale.
