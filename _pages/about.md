@@ -33,4 +33,8 @@ I love comedies (standup and tv shows), and my all-time favorite comedians are D
 
 Video Games have always played a major role both in my social and professional life, I'm currently playing Helldivers 2, Left 4 Dead 2, Gray Hack, ThreatGEN: Red vs. Blue and Uplink.
 
+![photo_2024-11-27_02-32-12](https://github.com/user-attachments/assets/4be03642-0ac3-49c4-ae78-aa110f462461)
+<small>Playing Doom II on the Purpl3 OS (ofc it runs doom at 120 FPS 😉)</small>
+
+
 I also love cooking food from all over the world and experimenting with different recipes.
