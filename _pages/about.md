@@ -27,6 +27,6 @@ Other Personal Interests
 ------
 I love comedies (standup and tv shows), and my all-time favorite comedians are Dave Chappelle, George Carlin.
 
-Video Games have played a major role both in my social and professional life, I'm currently playing Helldivers 2, Left 4 Dead 2, Gray Hack, ThreatGEN: Red vs. Blue, Uplink.
+Video Games have always played a major role both in my social and professional life, I'm currently playing Helldivers 2, Left 4 Dead 2, Gray Hack, ThreatGEN: Red vs. Blue and Uplink.
 
 I also love cooking food from all over the world and experimenting with different recipes.
