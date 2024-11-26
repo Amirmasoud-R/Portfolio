@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Amirmasoud Razavi"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "he/him"  
+  bio              : "BSc Computer Engineer | Cybersecurity & Privacy enthusiast | Always Smiling White Hacker | Fun Geek"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Islamic Azad University Karaj Branch"
   uri              : # URL
   email            : "amirmasoud@tutanota.com" 
 
