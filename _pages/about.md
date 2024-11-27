@@ -9,8 +9,6 @@ redirect_from:
 
 My name is Amirmasoud, I'm a passionate Computer Engineer with a foundation and experience in Cybersecurity and Computer Networks. I’m interested in both offensive and defensive security. Solving the complex challenges of security problems in real‑world situations piques my interest.
 
-Due to lack of official cybersecurity training institutes and security/privacy university curriculum I had to overcome many challenges and difficulties and delve into the cybersecurity self study path.
-
 ![IMG_0310_152901](https://github.com/user-attachments/assets/c3d77c92-f198-47cb-ba8f-af8c4047005a)
 <small>Installing Purpl3 OS on the Islamic Azad University Karaj Brach computer Labs</small>
 
